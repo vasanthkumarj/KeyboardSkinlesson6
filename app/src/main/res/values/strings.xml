@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KeyboardSkin - lesson 6</string>
+    <string name="enterDetails">Enter email</string>
+    <string name="enterMobile">Enter a number</string>
+</resources>
